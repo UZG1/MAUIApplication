@@ -2,6 +2,8 @@
 
 hybrid .net maui application, call C# methods from js and call native functions from C#
 
+You can run this application on Android emulator or your local device
+
 here is full working android JSBridge implementation example.
 
 Commands for calling native functions:
