@@ -14,5 +14,3 @@ open-browser
 call-get-image
 
 call-get-image will open native gallery. User will choose an image from native gallery and image will show on your app (after some seconds of waiting).
-
-  [![HitCount](https://hits.dwyl.com/UZG1/https://githubcom/UZG1/MAUIApplication.svg?style=flat-square)](http://hits.dwyl.com/UZG1/https://githubcom/UZG1/MAUIApplication)
